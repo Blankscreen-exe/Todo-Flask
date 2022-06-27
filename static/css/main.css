@@ -1,4 +1,5 @@
-body {
-    background-color: cyan;
+body,html {
+    margin: 0;
+    background-color:#d6feff;
     font-family: 'Courier New', Courier, monospace;
 }
